@@ -1,0 +1,76 @@
+#popup_container {
+	font-family: Arial, sans-serif;
+	font-size: 12px;
+	min-width:240px;
+	background: #FFF;
+	border: solid 5px #999;
+	color: #000;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+@media only screen 
+and (max-width : 320px) {
+	#popup_container {
+	font-family: Arial, sans-serif;
+	font-size: 12px;
+	min-width:100px;
+	background: #FFF;
+	border: solid 5px #999;
+	color: #000;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+}
+#popup_title {
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 1.75em;
+	color: #666;
+	background: #CCC url(../img/title.gif) top repeat-x;
+	border: solid 1px #FFF;
+	border-bottom: solid 1px #999;
+	cursor: default;
+	padding: 0em;
+	margin: 0em;
+}
+
+#popup_content {
+	
+	padding: 1em 1.75em;
+	margin: 0em;
+}
+
+#popup_content.alert {
+	
+}
+
+#popup_content.confirm {
+	
+}
+
+#popup_content.prompt {
+
+margin-top:-20px !important;
+}
+
+#popup_message {
+	
+	padding:0px;
+	margin:0px !important;
+}
+#popup_message input
+{
+padding:2px !important;
+}
+
+#popup_panel {
+	text-align: center;
+	margin: 1em 0em 0em 1em;
+}
+
+#popup_prompt {
+	margin: .5em 0em;
+}

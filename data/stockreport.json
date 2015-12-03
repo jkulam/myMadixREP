@@ -1,0 +1,21 @@
+{
+
+"10292" :[{
+			"I_PLANT" : "0030",
+			"I_MRP_AREA" : "HFT-ORDERS",
+			"I_STORAGE" : "HFT"
+		}],
+		
+"10111" :[{
+			"I_PLANT" : "0080",
+			"I_MRP_AREA" : "AFT-ORDERS",
+			"I_STORAGE" : "AFT"
+		}],
+		
+"10112" :[{
+			"I_PLANT" : "0070",
+			"I_MRP_AREA" : "KFT-ORDERS",
+			"I_STORAGE" : "KFT"
+		}]
+
+}

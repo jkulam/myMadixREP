@@ -1,0 +1,50 @@
+#myMadixSearch {
+	text-align: center;
+	color: #fff;
+}
+
+#myMadixSearch .wrapper {
+	display: inline-block;
+	margin: 20px 0 0;
+	padding: 10px;
+    background: #90C750;
+    border-radius: 5px;
+}
+
+#table_id_filter {
+	width: 100%;
+    float: none;
+    text-align: right;
+}
+
+#table_id_filter label {
+	padding: 0;
+}
+
+.order_details td {
+	padding: 5px;
+}
+
+.order_details input, .order_details select {
+	width: 100%;
+	box-sizing: border-box;
+	margin: 0 5px;
+}
+
+.search_button {
+	text-align: center;
+}
+
+.response {
+	margin: 40px auto;
+	text-align: center;
+}
+
+#results {
+	display: inline-block;
+	font-size: 10px;
+}
+
+.hidden {
+  display: none !important;
+}

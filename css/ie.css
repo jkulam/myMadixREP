@@ -1,0 +1,64 @@
+/* Header start */
+#triangle-down{
+    right: -6px\0/;
+}
+
+:root #triangle-down{
+    right: -7px\0/IE9;
+}
+/* Header end */
+
+/* Side bar start */
+
+.leftmenu ul li a {
+    border-left-color: #ddd\0/;
+    border-bottom-color: #ddd\0/;
+}
+
+/* Side bar end */
+
+*Album Gallery Starts*/
+#utopia-canvas {
+    height:400px;
+}
+/*Album Gallery Ends*/
+
+/*Video Gallery Starts*/
+.utopia-video-galleries ul li img{
+    max-width: 100%;
+    height: 200px;
+    width: 100%;
+}
+@media all
+and (max-width : 5000px)and (min-width : 1026px) {
+.table thead,
+.table tbody
+{
+position:absolute;
+}
+.table thead th:last-child
+{
+	
+	padding-right:16px !important;
+	border-right:1px solid #cecece !important;
+}
+.table tbody
+{
+	margin-top:39px;
+}
+.bottom 
+{
+	top:560px;
+	position:absolute;
+	left:84px;
+	
+}
+.bottom_btns
+{
+	padding-top:455px;
+}
+
+}
+
+/*Video Gallery Ends*/
+
